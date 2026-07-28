@@ -13,7 +13,7 @@
     width: 100%;
     max-width: 950px;
     height: 655px;
-    object-fit: cover;
+    object-fit: cover; /*обрезается по краям*/
     margin: 60px 0 0 0;
 }
 .history-description {

@@ -1,6 +1,9 @@
 *{
     box-sizing: border-box;
 }
+html{
+    scroll-behavior: smooth;/*делаем плавный скрол при нажатии кнопки*/
+}
 body{
     margin: 0;
     font-family: "Roboto", sans-serif;
