@@ -2,7 +2,7 @@
     box-sizing: border-box;
 }
 html{
-    scroll-behavior: smooth;/*делаем плавный скрол при нажатии кнопки*/
+    scroll-behavior: smooth;/*делаем плавный скрол при нажатии*/
 }
 body{
     margin: 0;
